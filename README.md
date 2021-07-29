@@ -48,5 +48,9 @@ pip install django .....
   hint : i  install the pillow pkg may be get different error but don't worry just use this command like this 
 ```
   
-
+ ### for any further details contact me
+ ```
+ --srias00481@gmail.com ---
+```
 ----Thank you -------
+
